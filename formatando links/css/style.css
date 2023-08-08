@@ -17,7 +17,8 @@ a:visited {
 
 /* Links hover, passa o cursor sobreo links */
 a:hover {
-    color: #6d790f;
+    color: #fff;
+    background-color: #6d790f ;
 }
 
 /* Links ativos, quando clicado */
